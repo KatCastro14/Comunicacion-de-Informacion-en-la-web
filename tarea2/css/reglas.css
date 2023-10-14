@@ -1,0 +1,39 @@
+
+@media (max-width: 576px) {
+    .carousel-item h3{
+        font-size: 15px !important;
+    }
+
+    .lista1{
+        padding-bottom: 30px;
+    }
+
+    .banner1 p,
+    .info2 p{
+        font-size: 18px;
+    }
+
+    .cincoPasos .intro,
+    .info2 p{
+        padding: 10px;
+    }
+
+    .info2 {
+        height: 550px;
+    }
+
+    .banner1 {
+        height: 505px;
+    }
+}
+
+
+@media (min-width: 577px) and (max-width:1200px){
+    .testimonials_container .item{
+        margin: 40px !important;
+    }
+
+    .info2 {
+        height: 400px;
+    }
+}
