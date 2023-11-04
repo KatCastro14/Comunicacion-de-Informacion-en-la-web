@@ -1,0 +1,298 @@
+@media (max-width: 576px) {
+    .videoIndex1{
+        max-width: 100%;
+    }
+
+    .img-overlay img{
+        padding-top: 10px;
+    }
+
+    /*Sección 2*/
+
+    .seccion2 h2{
+        padding-left: 0px;
+        padding-top: 10px;
+    }
+
+    /*Sección 3*/
+
+    .row{
+        padding: 20px;
+    }
+
+    .videoYT iframe{
+        height: auto;
+    }
+    .seccion3{
+        height: auto;
+    }
+
+    .infoPaisaje h2{
+        text-align: center;
+    }
+
+    .infoPaisaje p{
+        padding-left: 5px;
+    }
+
+    /*Sección 3*/
+
+    .seccion4{
+        height: auto;
+    }    
+
+    /*Sección 7*/
+
+    .seccion7{
+        height: auto;
+    }  
+
+    /*Sección 8*/
+
+    .seccion8{
+        height: 1100px;
+    }
+
+    .seccion8 h2{
+        font-size: 2rem;
+    }
+
+    .personajeIlustracion{
+        padding-left: 0px;
+        height: 300px;
+        width: 300px;
+    }
+
+     /*Footer*/
+
+     footer {
+        height: auto;
+     }
+
+    /*derechos*/
+
+    .derechos{
+        height: auto;
+    }
+}
+
+
+@media (max-width: 900px)  {
+    .videoIndex1{
+        max-width: 100%;
+    }
+
+    .img-overlay img{
+        padding-top: 10px;
+    }
+
+    /*Sección 2*/
+
+    .seccion2 h2{
+        padding-left: 60px;
+        padding-top: 10px;
+    }
+
+    .boton1{
+        padding: 300px;
+    }
+
+    /*Sección 3*/
+
+    .row{
+        height: auto;
+    }
+
+    .videoYT{
+        padding: auto;
+    }
+
+    .videoYT iframe{
+        height: auto;
+    }
+    .seccion3{
+        height: auto;
+    }
+
+    .infoPaisaje h2{
+        text-align: center;
+    }
+
+    .infoPaisaje p{
+        padding-left: 5px;
+    }
+
+    /*Sección 3*/
+
+    .seccion4{
+        height: auto;
+    }    
+
+    /*Sección 7*/
+
+    .seccion7{
+        height: auto;
+    }  
+
+    /*Sección 8*/
+
+    .seccion8{
+        height: 1100px;
+    }
+
+    .seccion8 h2{
+        font-size: 2rem;
+    }
+
+    .personajeIlustracion{
+        padding-left: 0px;
+        height: 300px;
+        width: 300px;
+    }
+
+     /*Footer*/
+
+     footer {
+        height: auto;
+     }
+
+    /*derechos*/
+
+    .derechos{
+        height: auto;
+    }
+}
+
+
+@media (min-width: 3000px) and (max-width: 4000px) {
+    .videoIndex1{
+        max-width: 100%;
+    }
+
+    .img-overlay img{
+        padding-top: 10px;
+    }
+
+    /*Sección 2*/
+
+    .seccion2 h2{
+        padding-left: 60px;
+        padding-top: 10px;
+        font-size: 3rem;
+    }
+
+    .seccion2 p{
+        font-size: 2.5rem;
+    }
+
+    /*Sección 3*/
+
+    .seccion3{
+        height: 900px;
+        padding: 0px;
+    }
+
+    .videoYT{
+        height: auto;
+        background-color: black;
+    }
+
+    
+    .infoPaisaje h2{
+        font-size: 3rem;
+    }
+
+    .infoPaisaje p{
+        font-size: 2.5rem;
+    }
+
+    /*Sección 4*/
+
+    .seccion4{
+        height: 300px;
+    }    
+
+    .seccion4 p{
+        font-size: 2.5rem;
+    }
+
+    /*Sección 6*/
+
+    .seccion6 .row img {
+        height: 1000px;
+        width: 900px;
+    }
+
+    .seccion6 h2{
+        font-size: 3rem;
+    }
+
+    .seccion6 p{
+        font-size: 2.5rem;
+        padding-bottom: 20px;
+    }
+    /*Sección 7*/
+
+    .seccion7{
+        height: auto;
+    }  
+
+    .seccion7 p{
+        font-size: 3rem;
+    }
+
+    /*Sección 8*/
+
+    .seccion8{
+        height: 1000px;
+    }
+
+    .seccion8 h2{
+        font-size: 3rem;
+    }
+
+    .seccion8 p{
+        font-size: 2.5rem;
+    }
+
+    form input{
+        padding: 200px;
+        font-size: 2.5rem;
+    }
+
+    button {
+        padding: 100px;
+    }
+    .personajeIlustracion{
+        padding-left: 0px;
+        height: 900px;
+        width: 600px;
+    }
+
+
+     /*Footer*/
+
+     footer {
+        height: auto;
+     }
+
+    footer h3{
+        font-size: 3rem;
+    }
+
+    footer p{
+        font-size: 2.5rem;
+    }
+
+    footer .redes .uil{
+        font-size: 3.3rem;
+    }
+
+    /*derechos*/
+
+    .derechos{
+        height: auto;
+        font-size: 2rem;
+    }
+}
+
